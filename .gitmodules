@@ -1,0 +1,4 @@
+[submodule "thai-font-collection"]
+	path = thai-font-collection
+	url = https://github.com/jeffmcneill/thai-font-collection.git
+	branch = master
