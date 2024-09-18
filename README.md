@@ -2,7 +2,7 @@
 
 Open source Thai Fonts Scraping in thaifaces.com and thaifonts.net.
 
-#### Getting Started !
+### Getting Started !
 
 1. Install the packages and browser driver
 
@@ -16,7 +16,7 @@ Open source Thai Fonts Scraping in thaifaces.com and thaifonts.net.
    python thaifaces_scraping.py
    ```
 
-#### What Scripts Do ?
+### What Scripts Do ?
 
 * ads skipping
 * getting into path linking to various website sources like Google Fonts, F0nt.com, Fontcraft.com, etc. from thaifonts.com pages
@@ -24,4 +24,4 @@ Open source Thai Fonts Scraping in thaifaces.com and thaifonts.net.
 * logging success/ failed downloaded fonts, skipping font with no sources.
 * It's going perform automation scraping. You can enjoy the cake and sipping some tea while waiting !
 
-###### Mini Caution: The scripts might outdated. You can try to modify it to be able to scrape with other websites.
+#### Mini Caution: The scripts might outdated. You can try to modify it to be able to scrape with other websites.
