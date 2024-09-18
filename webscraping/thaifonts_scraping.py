@@ -1,10 +1,3 @@
-# ----------------------------------------------------------------------------
-#               Playwright Webscraping on https://thaifonts.net
-#               By: https://github.com/microhum/
-#               Project: https://github.com/microhum/ThaiVecFont
-#               For Educational Purpose.
-# ----------------------------------------------------------------------------
-
 # At first I started the project by scraping in thaifonts.net.
 # But, after that I find out thaifaces is bigger sources of dataset. I think thaifonts is subset of thatfaces.
 # So I'm not reccommended to scrape on this website.

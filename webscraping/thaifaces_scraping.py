@@ -1,10 +1,3 @@
-# ----------------------------------------------------------------------------
-#               Playwright Webscraping on https://thaifaces.com/
-#               By: https://github.com/microhum/
-#               Project: https://github.com/microhum/ThaiVecFont
-#               For Educational Purpose.
-# ----------------------------------------------------------------------------
-
 # This website is pretty good, It's a biggest sources of Thai Fonts dataset right now.
 # Best for collecting fonts.
 # This website is linking into popular open font website like f0nt.com, fontcraftstudio.com and also unpopular even facebook giveaway...
