@@ -24,4 +24,4 @@ Open source Thai Fonts Scraping in thaifaces.com and thaifonts.net.
 * logging success/ failed downloaded fonts, skipping font with no sources.
 * It's going perform automation scraping. You can enjoy the cake and sipping some tea while waiting !
 
-#### Mini Caution: The scripts might outdated. You can try to modify it to be able to scrape with other websites.
+#### Caution: The scripts might be outdated. You may have to modify it to make it work.
